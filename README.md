@@ -1,6 +1,6 @@
 ### 👋 Hey — I'm Darius
 
-I dig deep. Most people stop at "it's broken" — I want to know *why*, down to the exact line of code.
+I like getting to the bottom of things — the exact line of code, not just the error message.
 
 **What you'll find here**
 - Deep-dive bug reports for [Hermes Agent](https://github.com/NousResearch/hermes-agent) — root causes, repro steps, and fixes
@@ -11,6 +11,6 @@ I dig deep. Most people stop at "it's broken" — I want to know *why*, down to 
 - 🔭 Dark skies — clear nights with a telescope
 - 🎧 Neurofunk & dark DnB — the good kind of loud
 
-*If you found the hidden line in this README — you dig deep too. Welcome.*
+*If you found the hidden line in this README — you're the curious kind too. Welcome.*
 
 <!-- psst: the root cause is always one layer deeper than the first error message. -->
